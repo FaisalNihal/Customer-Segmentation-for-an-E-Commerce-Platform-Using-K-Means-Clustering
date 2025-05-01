@@ -107,6 +107,8 @@ These insights enable targeted marketing, personalized recommendations, and focu
 ![pie](https://github.com/user-attachments/assets/dfd753ae-e95a-42cb-819f-1908b35c2bce)
 ![bar2 (1)](https://github.com/user-attachments/assets/80623ffe-df60-49ff-aaaa-6070cd66ac18)
 ![bar2](https://github.com/user-attachments/assets/93c03b85-a5e9-4576-8cea-f54eb3997a97)
+![bar4 (1)](https://github.com/user-attachments/assets/a9939103-fcf2-4c5c-a7e0-896155615ddb)
+
 
 
 
