@@ -1,6 +1,3 @@
-Sure! Here's a detailed `README.md` file **without any Python code**, written in clean, professional language to describe your K-Means customer segmentation project in six clear steps:
-
----
 
 # 🛍️ E-Commerce Customer Segmentation Using K-Means Clustering
 
