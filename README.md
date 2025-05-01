@@ -92,15 +92,15 @@ After the model was fitted, each customer was assigned a cluster label indicatin
 The clustering process revealed **five distinct customer groups**, each representing a different pattern of purchasing behavior:
 Customer group
 
-**0**.Highest Performing group with highest quantity purchased per transaction value and average_order amount. A good number of **free** customer.
+**Group 0**. Highest Performing group with highest quantity purchased per transaction value and average_order amount. A good number of **free** customer.
 
-**1**.customers with low quantity purchased per transaction value and average_order amount .Most of them are **free** customer
+**Group 1**. customers with low quantity purchased per transaction value and average_order amount .Most of them are **free** customer
 
-**2**.Most of the customers are **Premium** and their average_quantity and average_amount is high
+**Group 2**. Most of the customers are **Premium** and their average_quantity and average_amount is high
 
-**3**.Lowest performing group with low average_quantity and average_amount per transaction value.Most of them are **trial** customers.
+**Group 3**. Lowest performing group with low average_quantity and average_amount per transaction value.Most of them are **trial** customers.
 
-**4**.almost all of them are **lifetime** high price customers with lowest rating and low average_quantity value
+**Group 4**. almost all of them are **lifetime** high price customers with lowest rating and low average_quantity value
 
 These insights enable targeted marketing, personalized recommendations, and focused retention strategies — ultimately driving revenue and customer satisfaction.
 
