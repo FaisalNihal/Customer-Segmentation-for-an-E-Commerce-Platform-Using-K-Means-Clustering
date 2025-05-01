@@ -61,7 +61,7 @@ Exploratory Data Analysis (EDA) was conducted to understand the underlying patte
 
 This step helps in selecting the right variables that contribute the most to distinguishing between customer segments.
 
-![bar](https://github.com/user-attachments/assets/1703d411-d963-4d2d-a816-f28881ca8956) Number of Customers in different category
+![bar](https://github.com/user-attachments/assets/1703d411-d963-4d2d-a816-f28881ca8956) 
 
 ![Scatter (1)](https://github.com/user-attachments/assets/ca06373a-4aaa-41c2-a5ed-89dd6dfefc67)  ![scatter2](https://github.com/user-attachments/assets/89825254-4270-43f1-a907-52fef8e8a7e7)
 
@@ -74,15 +74,16 @@ This step helps in selecting the right variables that contribute the most to dis
 
 K-Means Clustering was selected as the modeling technique due to its efficiency and simplicity. The key steps in the modeling phase included:
 
-- Selecting the most relevant features (e.g., annual income and spending score) for segmentation.
+- Selecting the most relevant features (e.g., price,rating,order_amount,order_quantity) for segmentation.
 - Scaling the features to ensure that all variables contribute equally to distance calculations.
 - Using the Elbow Method to determine the optimal number of customer segments.
 - Applying the K-Means algorithm to form clusters of customers with similar purchase behaviors.
 
 After the model was fitted, each customer was assigned a cluster label indicating their segment.
 
+![Inertia](https://github.com/user-attachments/assets/64ae80b0-bfbe-4e4a-9580-1b098f381eb6)
 
-![Heatmap2 (4)](https://github.com/user-attachments/assets/b3286096-803f-4c6e-baa9-803174518817)
+![Heatmap2 (6)](https://github.com/user-attachments/assets/2099e6e6-6c23-48ac-ab31-1350d8872681)
 
 ---
 
