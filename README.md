@@ -109,6 +109,7 @@ These insights enable targeted marketing, personalized recommendations, and focu
 ![bar2](https://github.com/user-attachments/assets/93c03b85-a5e9-4576-8cea-f54eb3997a97)
 
 
+
 ### Recommendation:
 '
 **1**. Convert the 0 group's free and trial customer to lifetime/premium customer
@@ -117,12 +118,13 @@ These insights enable targeted marketing, personalized recommendations, and focu
 
 **3**. Provide special offer with customer based marketing for free and trial customer of group 1 and 3
 
-**4**. Improve the service level (on time delivery, improve the quality of high price product) for ifetime customer
+**4**. Improve the service level (on time delivery, improve the quality of high price product) for lifetime customer
 
 
 
 
-## 📌 Conclusion
+
+##  Conclusion
 
 This project demonstrates how K-Means clustering can be applied to customer data to uncover valuable insights. By segmenting customers based on their income and spending patterns, e-commerce businesses can:
 
