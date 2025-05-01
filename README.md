@@ -54,13 +54,15 @@ Proper data cleaning improves model performance and ensures that the clustering 
 Exploratory Data Analysis (EDA) was conducted to understand the underlying patterns in the dataset:
 
 - Summary statistics were reviewed to understand the distribution of variables like quantity and order amount.
-- Charts and graphs were used to visualize the relationships between different features like order quantity and price
+- Charts and graphs were used to visualize the relationships between different features like order quantity and price and
+  customer distribution in different customer_type (free, trial, premium, lifetime)
 - Trends such as the correlation between customer rating and order amount were explored.
 - Key insights about customer  purchase behavior were identified, guiding the feature selection for clustering.
 
 This step helps in selecting the right variables that contribute the most to distinguishing between customer segments.
 
 ![bar](https://github.com/user-attachments/assets/1703d411-d963-4d2d-a816-f28881ca8956)
+Number of Customers in different category
 ![Scatter (1)](https://github.com/user-attachments/assets/ca06373a-4aaa-41c2-a5ed-89dd6dfefc67)  ![scatter2](https://github.com/user-attachments/assets/89825254-4270-43f1-a907-52fef8e8a7e7)
 
 
