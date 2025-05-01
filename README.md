@@ -53,10 +53,10 @@ Proper data cleaning improves model performance and ensures that the clustering 
 
 Exploratory Data Analysis (EDA) was conducted to understand the underlying patterns in the dataset:
 
-- Summary statistics were reviewed to understand the distribution of variables like income and spending.
-- Charts and graphs were used to visualize the relationships between different features.
-- Trends such as the correlation between annual income and spending behavior were explored.
-- Key insights about customer demographics and purchase behavior were identified, guiding the feature selection for clustering.
+- Summary statistics were reviewed to understand the distribution of variables like quantity and order amount.
+- Charts and graphs were used to visualize the relationships between different features like order quantity and price
+- Trends such as the correlation between customer rating and order amount were explored.
+- Key insights about customer  purchase behavior were identified, guiding the feature selection for clustering.
 
 This step helps in selecting the right variables that contribute the most to distinguishing between customer segments.
 
@@ -72,6 +72,9 @@ K-Means Clustering was selected as the modeling technique due to its efficiency 
 - Applying the K-Means algorithm to form clusters of customers with similar purchase behaviors.
 
 After the model was fitted, each customer was assigned a cluster label indicating their segment.
+
+
+![Heatmap2 (4)](https://github.com/user-attachments/assets/b3286096-803f-4c6e-baa9-803174518817)
 
 ---
 
