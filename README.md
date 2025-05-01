@@ -89,14 +89,26 @@ After the model was fitted, each customer was assigned a cluster label indicatin
 
 ### 🔹 Step 6: Insights
 
-The clustering process revealed **four distinct customer groups**, each representing a different pattern of purchasing behavior:
+The clustering process revealed **five distinct customer groups**, each representing a different pattern of purchasing behavior:
+Customer group
 
-1. **Low income, low spenders**: These are budget-conscious customers who may respond well to discounts and value-driven offers.
-2. **High income, low spenders**: Customers with potential to spend more but currently not engaged — ideal for loyalty campaigns.
-3. **Medium income, high spenders**: Engaged customers who are good targets for cross-selling or upselling.
-4. **High income, high spenders**: Most valuable customers who should be prioritized for exclusive deals and premium services.
+**0**.Highest Performing group with highest quantity purchased per transaction value and average_order amount. A good number of **free** customer.
+
+**1**.customers with low quantity purchased per transaction value and average_order amount .Most of them are **free** customer
+
+**2**.Most of the customers are **Premium** and their average_quantity and average_amount is high
+
+**3**.Lowest performing group with low average_quantity and average_amount per transaction value.Most of them are **trial** customers.
+
+**4**.almost all of them are **lifetime** high price customers with lowest rating and low average_quantity value
 
 These insights enable targeted marketing, personalized recommendations, and focused retention strategies — ultimately driving revenue and customer satisfaction.
+![pie](https://github.com/user-attachments/assets/dfd753ae-e95a-42cb-819f-1908b35c2bce)
+![bar2 (1)](https://github.com/user-attachments/assets/80623ffe-df60-49ff-aaaa-6070cd66ac18)
+![bar2](https://github.com/user-attachments/assets/93c03b85-a5e9-4576-8cea-f54eb3997a97)
+
+
+
 
 ---
 
