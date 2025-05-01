@@ -103,6 +103,7 @@ Customer group
 **4**.almost all of them are **lifetime** high price customers with lowest rating and low average_quantity value
 
 These insights enable targeted marketing, personalized recommendations, and focused retention strategies — ultimately driving revenue and customer satisfaction.
+
 ![pie](https://github.com/user-attachments/assets/dfd753ae-e95a-42cb-819f-1908b35c2bce)
 ![bar2 (1)](https://github.com/user-attachments/assets/80623ffe-df60-49ff-aaaa-6070cd66ac18)
 ![bar2](https://github.com/user-attachments/assets/93c03b85-a5e9-4576-8cea-f54eb3997a97)
