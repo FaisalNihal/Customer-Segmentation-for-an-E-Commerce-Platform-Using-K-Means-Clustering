@@ -17,7 +17,7 @@ The project is structured into six key steps:
 
 ###  Step 1: Scope of the Project
 
-The purpose of this project is to classify customers into distinct groups based on their annual income and spending habits. By analyzing this segmentation, businesses can:
+The purpose of this project is to classify customers into distinct groups based on their total order amount, order quantity per transaction, rating and average price they spend to buy product. By analyzing this segmentation, businesses can:
 
 - Understand different customer profiles.
 - Identify high-value and at-risk customers.
@@ -114,9 +114,9 @@ These insights enable targeted marketing, personalized recommendations, and focu
 '
 **1**. Convert the 0 group's free and trial customer to lifetime/premium customer
 
-**2**. Provide some discount on price for group 0 customer
+**2**. Provide some discount on price/reward for group 0 customer to encourage them to buy more
 
-**3**. Provide special offer with customer based marketing for free and trial customer of group 1 and 3
+**3**. Provide special offer with individual customer based marketing for free and trial customer of group 1 and 3
 
 **4**. Improve the service level (on time delivery, improve the quality of high price product) for lifetime customer
 
