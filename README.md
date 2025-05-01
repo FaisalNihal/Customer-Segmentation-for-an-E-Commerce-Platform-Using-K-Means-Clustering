@@ -100,4 +100,3 @@ Customer segmentation is a foundational step in building intelligent, customer-f
 
 ---
 
-Let me know if you'd like help formatting this into a GitHub `README.md` file or adding visual elements like charts or cluster summaries!
