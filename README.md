@@ -61,8 +61,8 @@ Exploratory Data Analysis (EDA) was conducted to understand the underlying patte
 
 This step helps in selecting the right variables that contribute the most to distinguishing between customer segments.
 
-![bar](https://github.com/user-attachments/assets/1703d411-d963-4d2d-a816-f28881ca8956)
-Number of Customers in different category
+![bar](https://github.com/user-attachments/assets/1703d411-d963-4d2d-a816-f28881ca8956) Number of Customers in different category
+
 ![Scatter (1)](https://github.com/user-attachments/assets/ca06373a-4aaa-41c2-a5ed-89dd6dfefc67)  ![scatter2](https://github.com/user-attachments/assets/89825254-4270-43f1-a907-52fef8e8a7e7)
 
 
