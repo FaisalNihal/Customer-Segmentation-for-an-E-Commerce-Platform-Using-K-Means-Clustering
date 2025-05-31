@@ -1,0 +1,17 @@
+**Insights**:
+
+*Groups*:
+The clustering process revealed five distinct customer groups, each representing a different pattern of purchasing behavior: Customer group
+
+Group 0. Highest Performing group with highest quantity purchased per transaction value and average_order amount. A good number of free customer.
+
+Group 1. customers with low quantity purchased per transaction value and average_order amount .Most of them are free customer
+
+Group 2. Most of the customers are Premium and their average_quantity and average_amount is high
+
+Group 3. Lowest performing group with low average_quantity and average_amount per transaction value.Most of them are trial customers.
+
+Group 4. almost all of them are lifetime high price customers with lowest rating and low average_quantity value
+
+
+
